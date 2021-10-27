@@ -2,11 +2,8 @@
 >>> git commit -am 'comment อะไรก็ได้เลย'
 
 เริ่ม branch ใหม่ 
-<<<<<<< HEAD
 >>> git checkout -b <branch name>
 
 merge branch เข้ามาใหม่ 
 >>> git merge <branch name>
-=======
->>> git checkout -b <branch name>
->>>>>>> style
+
