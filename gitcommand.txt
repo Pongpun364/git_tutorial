@@ -1,0 +1,2 @@
+ถ้าต้องการ add เเละ commit พร้อมกัน
+>>> git commit -am 'comment อะไรก็ได้เลย'
